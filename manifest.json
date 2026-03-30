@@ -1,0 +1,15 @@
+{
+  "name": "Sundrift",
+  "short_name": "Sundrift",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f3f7ff",
+  "theme_color": "#0b1f3a",
+  "description": "A modern travel diary for trips, photos, places, and timelines.",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
